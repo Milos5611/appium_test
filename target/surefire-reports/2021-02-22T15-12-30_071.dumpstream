@@ -1,0 +1,4 @@
+# Created at 2021-02-22T15:12:31.215
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Prodyna\LearnCurve\Appium\FirstAppiumProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="192478" started-at="2021-02-22T23:00:43 MEZ" finished-at="2021-02-22T23:03:55 MEZ">
+    <groups>
+    </groups>
+    <test name="D:\Prodyna\LearnCurve\Appium\FirstAppiumProject\src\test\java\com\prodyna\test\LoginTest.java" duration-ms="192478" started-at="2021-02-22T23:00:43 MEZ" finished-at="2021-02-22T23:03:55 MEZ">
+      <class name="com.prodyna.test.LoginTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.prodyna.test.LoginTest@be64738]" name="initialize" is-config="true" duration-ms="99256" started-at="2021-02-22T23:00:43 MEZ" finished-at="2021-02-22T23:02:22 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginHappyPathTest()[pri:0, instance:com.prodyna.test.LoginTest@be64738]" name="loginHappyPathTest" duration-ms="29869" started-at="2021-02-22T23:02:22 MEZ" finished-at="2021-02-22T23:02:52 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHappyPathTest -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.prodyna.test.LoginTest@be64738]" name="initialize" is-config="true" duration-ms="49931" started-at="2021-02-22T23:02:52 MEZ" finished-at="2021-02-22T23:03:42 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginEmailNegativeTest()[pri:0, instance:com.prodyna.test.LoginTest@be64738]" name="loginEmailNegativeTest" duration-ms="13381" started-at="2021-02-22T23:03:42 MEZ" finished-at="2021-02-22T23:03:55 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEmailNegativeTest -->
+      </class> <!-- com.prodyna.test.LoginTest -->
+    </test> <!-- D:\Prodyna\LearnCurve\Appium\FirstAppiumProject\src\test\java\com\prodyna\test\LoginTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
